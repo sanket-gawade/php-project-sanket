@@ -1,5 +1,5 @@
 # php-project-sanket
-download project zip file and extract it
+# download project zip file and extract it
 download xampp
 copy the project file and paste in C:\xampp\htdocs this path
 run xampp and start apache and my sql
